@@ -1,0 +1,6 @@
+# Text files ignored
+.gitattributes
+
+# Directories ignored
+.ipynb_checkpoints/
+
